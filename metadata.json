@@ -1,0 +1,7 @@
+{
+  "name": "DJPress - Pro Press Kits",
+  "description": "A professional platform for DJs and electronic music artists to create, manage, and share their EPKs (Electronic Press Kits). Features bio generation, media management, and modern aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
